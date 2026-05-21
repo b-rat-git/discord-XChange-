@@ -1,0 +1,4 @@
+discord.py==2.7.0
+python-dotenv>=1.2.1
+ruff==0.15.4
+pyflakes==3.4.0
