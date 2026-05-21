@@ -125,7 +125,7 @@ The bot requires the following Discord intents enabled in the [Developer Portal]
 ### Running
 
 ```bash
-python slut_exchange.py
+python serverxchange.py
 ```
 
 ## Data Storage
@@ -139,10 +139,6 @@ All data is stored as JSON files in the `data/` directory:
 | `prices.json` | Stock prices, history, 24h highs/lows, ATH |
 | `fund_penalties.json` | Early withdrawal penalty tracking |
 
-```
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  SLUT ▲+20%  |  GLUE ▲+14%  |  ASSA ▲+9%  |  FUND ▲+15%  |  PING ▲+50%
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ## Authors
